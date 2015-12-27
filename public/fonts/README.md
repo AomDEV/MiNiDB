@@ -1,3 +1,3 @@
 # DOWNLOADS
 
-Download fonts at getbootstrap.com
+Download fonts at **getbootstrap.com**
